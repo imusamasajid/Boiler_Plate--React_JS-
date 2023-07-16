@@ -1,5 +1,5 @@
 {
-  "name": "boiler_plate",
+  "name": "admin_panel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
+    "bootstrap": "^5.3.0",
+    "chart.js": "^4.3.0",
     "sass": "^1.58.3"
   }
 }
